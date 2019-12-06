@@ -9,6 +9,6 @@ metadata:
 spec:
   containers:
     - name: worker-app
-      image: dockersamples/examplevotingapp_worker # bretfisher/examplevotingapp_worker:java
+      image: bretfisher/examplevotingapp_worker:java
 
 
